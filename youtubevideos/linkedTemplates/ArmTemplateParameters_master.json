@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "youtubevideos"
+		},
+		"AzureSqlDatabase_connectionString": {
+			"value": ""
+		},
+		"Destionation_connectionString": {
+			"value": ""
+		},
+		"LSDemos_connectionString": {
+			"value": ""
+		},
+		"Source_connectionString": {
+			"value": ""
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
